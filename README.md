@@ -6,7 +6,7 @@
 
 Esta API permite gerenciar usuários, incluindo a criação, leitura, atualização e exclusão de registros no banco de dados.
 
-![Captura de tela 2025-02-26 224052](https://github.com/user-attachments/assets/545513d4-e0b6-4bf4-ae4b-9bafdc5647f1)
+![Captura de tela 2025-02-27 233850(1)](https://github.com/user-attachments/assets/39c4ff13-f6f0-43f7-9b9a-e1444c9a90bb)
 
 📡 Endpoints
 
