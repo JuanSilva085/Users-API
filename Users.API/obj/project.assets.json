@@ -3622,11 +3622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Users.API.csproj",
+      "projectUniqueName": "C:\\Users\\JuanU\\Users-API\\Users.API\\Users.API.csproj",
       "projectName": "Users.API",
-      "projectPath": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Users.API.csproj",
+      "projectPath": "C:\\Users\\JuanU\\Users-API\\Users.API\\Users.API.csproj",
       "packagesPath": "C:\\Users\\JuanU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\obj\\",
+      "outputPath": "C:\\Users\\JuanU\\Users-API\\Users.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
