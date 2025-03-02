@@ -31,7 +31,7 @@ DELETE /usuarios/{id} - Exclui um usuário pelo ID
 
 Clone este repositório:
 
-- git clone https://github.com/JuanSilva085/Users.API.git
+- git clone [https://github.com/JuanSilva085/Users.API.git](https://github.com/JuanSilva085/Users-API)
 
 Acesse o diretório do projeto:
 
