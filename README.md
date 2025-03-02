@@ -26,6 +26,30 @@ PUT /usuarios/{id} - Atualiza um usuário existente
 DELETE /usuarios/{id} - Exclui um usuário pelo ID
 ![Captura de tela 2025-02-26 224407](https://github.com/user-attachments/assets/946fd6c3-958c-4e03-9095-2a9be65ba096)
 
+
+📥 Instalação
+
+Clone este repositório:
+
+- git clone https://github.com/JuanSilva085/Users.API.git
+
+Acesse o diretório do projeto:
+
+- cd Users.API
+
+Instale as dependências:
+
+- dotnet restore
+
+🚀 Execução
+
+Para rodar a API localmente, utilize o seguinte comando:
+
+- dotnet run
+
+A API estará acessível em https://localhost:5001/swagger para testes via Swagger UI. 🧑‍💻
+
+
 🛠️ Tecnologias Utilizadas
 
 C# com ASP.NET Core
