@@ -49,6 +49,7 @@ Para rodar a API localmente, utilize o seguinte comando:
 
 A API estará acessível em https://localhost:5001/swagger para testes via Swagger UI. 🧑‍💻
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias Utilizadas
 
