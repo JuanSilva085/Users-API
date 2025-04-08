@@ -53,8 +53,8 @@ A API estará acessível em https://localhost:5001/swagger para testes via Swagg
 
 🛠️ Tecnologias Utilizadas
 
-C# com ASP.NET Core
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) com ASP.NET Core
 
 Entity Framework Core
 
-SQLite
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
