@@ -59,4 +59,7 @@ A API estará acessível em https://localhost:5001/swagger para testes via Swagg
 
 <img align="left" width="50px" style="padding-right: 50px" src="https://miro.medium.com/v2/resize:fit:591/1*4HIU0YdDkj0dmGySVC5D_g.png" /> 
 
-<img align="left" width="50px" style="padding-right: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />          
+<img align="left" width="50px" style="padding-right: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />   
+
+<img align="left" width="50px" style="padding-right: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+          
