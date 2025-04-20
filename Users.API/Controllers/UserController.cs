@@ -40,7 +40,7 @@ public class UserController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public async Task<IActionResult> PutUsuario(int id, Usuario usuario)
+    public async Task<IActionResult> PutUsuario(int id, [FromBody] Usuario usuario)
     {
         if (id != usuario.Id)
             return BadRequest("O ID do usuário na URL deve ser o mesmo do corpo da requisição.");
@@ -51,6 +51,9 @@ public class UserController : ControllerBase
 
         usuarioExistente.Nome = usuario.Nome;
         usuarioExistente.Email = usuario.Email;
+        usuarioExistente.Telefone = usuario.Telefone;
+        usuarioExistente.Endereco = usuario.Endereco;
+        usuarioExistente.DataNascimento = usuario.DataNascimento;
 
         _context.Entry(usuarioExistente).State = EntityState.Modified;
         await _context.SaveChangesAsync();

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\JuanU\\source\\repos\\Users.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|c:\\users\\juanu\\source\\repos\\users.api\\users.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|solutionrelative:users.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|c:\\users\\juanu\\source\\repos\\users.api\\users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|solutionrelative:users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|c:\\users\\juanu\\source\\repos\\users.api\\users.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|solutionrelative:users.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|c:\\users\\juanu\\source\\repos\\users.api\\users.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|solutionrelative:users.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|c:\\users\\juanu\\source\\repos\\users.api\\users.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|solutionrelative:users.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|c:\\users\\juanu\\source\\repos\\users.api\\users.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|solutionrelative:users.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|c:\\users\\juanu\\source\\repos\\users.api\\users.api\\migrations\\20250227003006_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9B4069-F4A4-4ECB-A6B9-1D8D25E9EDAC}|Users.API\\Users.API.csproj|solutionrelative:users.api\\migrations\\20250227003006_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Users.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Users.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:15:59.592Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -57,41 +78,57 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250227003006_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Migrations\\20250227003006_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Users.API\\Migrations\\20250227003006_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Migrations\\20250227003006_InitialCreate.cs",
+              "RelativeToolTip": "Users.API\\Migrations\\20250227003006_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:16:28.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Users.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Users.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T18:08:31.583Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Users.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Users.API\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T18:38:25.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Users.API\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Users.API\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T02:34:21.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Program.cs",
               "RelativeDocumentMoniker": "Users.API\\Program.cs",
               "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Program.cs",
               "RelativeToolTip": "Users.API\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T02:22:00.142Z"
+              "WhenOpened": "2025-04-17T17:53:05.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Users.API\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Users.API\\Users.API\\Models\\Usuario.cs",
+              "RelativeToolTip": "Users.API\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:38:30.997Z"
             }
           ]
         }

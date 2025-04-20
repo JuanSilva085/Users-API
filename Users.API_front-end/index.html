@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gerenciador de Usuários</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <h1>👥 Gerenciador de Usuários</h1>
+
+  <section>
+    <h2>🔍 Buscar Usuário</h2>
+    <input type="text" id="buscaIdOuEmail" placeholder="ID ou Email" />
+    <button onclick="buscarUsuario()">Buscar</button>
+    <div id="resultadoBusca"></div>
+  </section>
+
+  <section>
+    <h2>➕ Adicionar Usuário</h2>
+    <form id="formAdicionar">
+      <input type="text" id="nomeAdd" placeholder="Nome" required />
+      <input type="email" id="emailAdd" placeholder="Email" required />
+      <input type="text" id="telefoneAdd" placeholder="Telefone" required />
+      <input type="text" id="enderecoAdd" placeholder="Endereço" required />
+      <input type="date" id="dataAdd" placeholder="Data de Nascimento" required />
+      <button type="submit">Adicionar</button>
+    </form>
+  </section>
+
+<section>
+  <h2>Editar Usuário</h2>
+  <form id="formEditar">
+    <input type="number" id="idEdit" placeholder="ID" required />
+    <input type="text" id="nomeEdit" placeholder="Nome" />
+    <input type="email" id="emailEdit" placeholder="Email" />
+    <input type="text" id="telefoneEdit" placeholder="Telefone" />
+    <input type="text" id="enderecoEdit" placeholder="Endereço" />
+    <input type="date" id="dataEdit" placeholder="Data de Nascimento" />
+    <button type="submit">Atualizar</button>
+  </form>
+  
+</section>
+
+  <section>
+    <h2>🗑️ Deletar Usuário</h2>
+    <input type="number" id="deleteId" placeholder="ID do Usuário" />
+    <button onclick="deletarUsuario()">Deletar</button>
+  </section>
+
+  <section>
+    <h2>📋 Lista de Usuários</h2>
+    <button onclick="carregarUsuarios()">Atualizar Lista</button>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Email</th>
+          <th>Telefone</th>
+          <th>Endereço</th>
+          <th>Data de Nascimento</th>
+        </tr>
+      </thead>
+      <tbody id="usuariosTableBody"></tbody>
+    </table>
+  </section>
+</body>
+</html>
