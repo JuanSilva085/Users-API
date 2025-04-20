@@ -6,26 +6,22 @@
 
 Este projeto é uma aplicação **Fullstack CRUD** que permite gerenciar usuários, incluindo a criação, leitura, atualização e exclusão de registros no banco de dados.
 
-![Captura de tela 2025-02-27 233850(1)](https://github.com/user-attachments/assets/39c4ff13-f6f0-43f7-9b9a-e1444c9a90bb)
+
+<hr>
 
 📡 Endpoints
 
 GET /usuarios - Retorna a lista de usuários
-![Captura de tela 2025-02-26 224125](https://github.com/user-attachments/assets/fab4dc5b-a3a0-43b7-897a-12e92587e241)
-
-
-GET /usuarios/{id} - Retorna um usuário pelo ID
-![Captura de tela 2025-02-26 224424](https://github.com/user-attachments/assets/770b62b6-0bfb-4834-a9fa-793496dc56a7)
 
 POST /usuarios - Cria um novo usuário
-![Captura de tela 2025-02-26 224210](https://github.com/user-attachments/assets/b3f4c78e-08ff-4b53-85c1-688dd9431fab)
+
+GET /usuarios/{id} - Retorna um usuário pelo ID
 
 PUT /usuarios/{id} - Atualiza um usuário existente
-![Captura de tela 2025-02-27 222200](https://github.com/user-attachments/assets/b5f2ae88-400a-4bde-8121-4f48b4658fbb)
 
 DELETE /usuarios/{id} - Exclui um usuário pelo ID
-![Captura de tela 2025-02-26 224407](https://github.com/user-attachments/assets/946fd6c3-958c-4e03-9095-2a9be65ba096)
 
+<hr>
 
 📥 Instalação
 
@@ -51,15 +47,34 @@ A API estará acessível em https://localhost:5001/swagger para testes via Swagg
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
-<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
-<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> 
+Back-end
 
-<img align="left" width="50px" style="padding-right: 50px" src="https://miro.medium.com/v2/resize:fit:591/1*4HIU0YdDkj0dmGySVC5D_g.png" /> 
+<div style="display: flex; gap: 50px; align-items: center;">
+ <img width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
+ <img width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> 
+ <img width="50px" style="padding-right: 50px" src="https://miro.medium.com/v2/resize:fit:591/1*4HIU0YdDkj0dmGySVC5D_g.png" /> 
+ <img width="50px" style="padding-right: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />   
+ <img width="50px" style="padding-right: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+</div>
 
-<img align="left" width="50px" style="padding-right: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />   
 
-<img align="left" width="50px" style="padding-right: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-          
+Front-end
+
+<div style="display: flex; gap: 50px; align-items: center; margin-bottom: 40px;">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 📸 Preview
+
+<img src="https://github.com/user-attachments/assets/39c4ff13-f6f0-43f7-9b9a-e1444c9a90bb" width="700"/>
+
+<img src="https://github.com/user-attachments/assets/2d3af833-2c3b-4b00-bf37-1b1bace23c37" width="700"/>
+
