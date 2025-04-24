@@ -49,7 +49,7 @@ A API estará acessível em https://localhost:5001/swagger para testes via Swagg
 
 # 🛠️ Tecnologias Utilizadas
 
-Back-end
+🔙 Back-end
 
 <div style="display: flex; gap: 50px; align-items: center;">
  <img width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
@@ -60,7 +60,7 @@ Back-end
 </div>
 
 
-Front-end
+🎨 Front-end
 
 <div style="display: flex; gap: 50px; align-items: center; margin-bottom: 40px;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
