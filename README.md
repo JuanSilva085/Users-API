@@ -46,8 +46,6 @@ DELETE /usuarios/{id} - Exclui um usuário pelo ID
 
 # 📸 Preview
 
-<img src="https://github.com/user-attachments/assets/39c4ff13-f6f0-43f7-9b9a-e1444c9a90bb" width="700"/>
-
 <img src="https://github.com/user-attachments/assets/2d3af833-2c3b-4b00-bf37-1b1bace23c37" width="700"/>
 
 <hr>
