@@ -21,6 +21,12 @@ DELETE /usuarios/{id} - Exclui um usuário pelo ID
 
 <hr>
 
+
+# 📸 Preview
+
+<img src="https://github.com/user-attachments/assets/2d3af833-2c3b-4b00-bf37-1b1bace23c37" width="700"/>
+
+
 # 🛠️ Tecnologias Utilizadas
 
 ## 🔙 Back-end
@@ -41,13 +47,6 @@ DELETE /usuarios/{id} - Exclui um usuário pelo ID
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 📸 Preview
-
-<img src="https://github.com/user-attachments/assets/2d3af833-2c3b-4b00-bf37-1b1bace23c37" width="700"/>
-
 <hr>
 
 📥 Instalação
@@ -69,8 +68,6 @@ Instale as dependências:
 Para rodar a API localmente, utilize o seguinte comando:
 
 - dotnet run
-
-A API estará acessível em https://localhost:5001/swagger para testes via Swagger UI. 🧑‍💻
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
