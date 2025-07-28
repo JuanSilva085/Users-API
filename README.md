@@ -51,7 +51,7 @@ DELETE /usuarios/{id} - Exclui um usuário pelo ID
 
 📥 Instalação
 
-Clone este repositório:
+Clone o repositório:
 
 - git clone [https://github.com/JuanSilva085/Users.API.git](https://github.com/JuanSilva085/Users-API)
 
@@ -68,6 +68,7 @@ Instale as dependências:
 Para rodar a API localmente, utilize o seguinte comando:
 
 - dotnet run ou F5
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
