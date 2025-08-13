@@ -2,7 +2,7 @@
 
 📌 Sobre
 
-Este projeto é uma aplicação **Fullstack CRUD** que permite gerenciar usuários, incluindo a criação, leitura, atualização e exclusão de registros no banco de dados.
+Este projeto é uma aplicação **Fullstack CRUD** que permite gerenciar usuários, com a criação, leitura, atualização e a exclusão de registros no banco de dados.
 
 
 <hr>
